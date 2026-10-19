@@ -12,6 +12,9 @@ A documentation ecosystem designed to simplify the creation, maintenance, and de
 
 ---
 
+<img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/03379e89-0278-4665-94c9-4c95fb00c1e1" />
+
+
 ## 01. Overview
 
 Keeping enterprise documentation accurate and up to date can be challenging, particularly in applications with multiple modules, complex navigation structures, and frequently evolving interfaces.
@@ -19,6 +22,42 @@ Keeping enterprise documentation accurate and up to date can be challenging, par
 **Automated Documentation Engine** addresses this challenge by combining browser automation, Markdown-based documentation, and a lightweight web portal into a unified workflow.
 
 The goal is simple: **reduce repetitive documentation tasks while improving consistency, accessibility, and maintainability.**
+
+### ✦ Interface Preview
+
+A responsive documentation portal with a clean interface, intuitive navigation, and support for light and dark themes.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>☀ Light Mode</strong>
+    </td>
+    <td width="50%" align="center">
+      <strong>☾ Dark Mode</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/fdc5edf0-ded8-41e5-ae18-87a20f30fc16"
+        alt="Documentation portal — Light Mode"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/ebe6646d-e7a4-4737-96c1-c4f68b807f2f"
+        alt="Documentation portal — Dark Mode"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>One portal. Two themes. A consistent documentation experience. 🌸</sub>
+</p>
+
 
 ### The challenge
 
